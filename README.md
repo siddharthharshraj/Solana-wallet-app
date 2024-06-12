@@ -37,6 +37,9 @@ I developed an application that allows users to transfer SOL tokens from one acc
 
 ## Screenshots
 
+![Screenshot](https://raw.githubusercontent.com/siddharthharshraj/solana-wallet-app/main/assets/main-h.png)
+
+
 ## Contact
 
 - You can contact me on X :[X](https://x.com/sid__web3)
